@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-https://www.codewars.com/users/andreizpcw/badges/large?theme=light
+![Codewars Badge](https://www.codewars.com/users/andreizpcw/badges/large?theme=light)
 
 <!--
 **andreizpgh/andreizpgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
