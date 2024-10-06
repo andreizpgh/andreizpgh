@@ -1,4 +1,4 @@
-## Junior Front-End Developer <a href="https://www.codewars.com/users/andreizpcw" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/andreizpcw/badges/micro?theme=light" alt="codewars badge"/></a> 
+## Front-End Developer <a href="https://www.codewars.com/users/andreizpcw" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/andreizpcw/badges/micro?theme=light" alt="codewars badge"/></a> 
 
 <h4 align="left">Languages and Tools I use:</h3>
 <p align="left"> 
